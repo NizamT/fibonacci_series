@@ -8,5 +8,5 @@ while i <= c:
    f = a + b
    a = b
    b = f
-   print(f'{f} ')
+   print(f, end=" ")
    i += 1
